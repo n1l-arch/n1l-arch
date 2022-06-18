@@ -1,6 +1,6 @@
 ### hi i am n1l i love GNU/linux and persona 3. i am also paranoid about cyber security
 
-![persona3](res/persona3.gif)
+![persona3](persona.gif)
  
 <!--
 **n1lOctocat/n1lOctocat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

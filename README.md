@@ -6,4 +6,4 @@
 - 📫 How to reach me: matrix [@n1lthezealous:matrix.org](https://matrix.to/#/@n1lthezealous:matrix.org), email [gnu.linux.lover@tutanota.com](mailto:gnu.linux.lover@tutanota.com)
 - ⚡ Fun fact: shut the fuck up
 
-<img src="n.png">
+<img src="n.png" height="480" width="854">
